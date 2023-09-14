@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://i.ibb.co/YbFS6Kc/programer-ia.jpg" alt="programer-ia" width="100%" border="0">
+<img src="https://i.ibb.co/3mpS6km/nlw-upload-ia.png" alt="nlw-upload-ia" width="100%" border="0">
 <br>
 Upload IA
 </h1>
