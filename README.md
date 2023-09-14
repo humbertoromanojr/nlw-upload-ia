@@ -18,6 +18,10 @@ Upload IA
 
 ## Libraries Web
 
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> — A JavaScript library for building user interfaces
 
 - [React](https://react.dev/)
@@ -36,6 +40,8 @@ Upload IA
 - npx shadcn-ui@latest add label
 
 ## Libraries API
+
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> — Node.js® is an open-source, cross-platform JavaScript runtime environment.
 
 - [Node](https://nodejs.org/en)
 - [Typescript](https://www.typescriptlang.org/)
@@ -72,8 +78,6 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 ## Sources:
 
 - rocketseat.com.br
-- getemoji.com
-- expo.dev
 
 ## Author
 
