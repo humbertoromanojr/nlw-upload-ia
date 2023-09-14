@@ -58,6 +58,7 @@ Upload IA
     `"[prisma]": {
   "editor.formatOnSave": true,
 },`
+- npx prisma migrate dev
 
 ## Demonstration
 
@@ -69,16 +70,13 @@ Copy project to repository:<br />
 <img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" />
 git clone `git@github.com:humbertoromanojr/nlw-upload-ia`
 
-Install Expo <br />
-<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> `npm i -g expo-cli` <br />
-
-<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Go to `nlw-upload-ia` folder <br />
+<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Go to `nlw-upload-ia/upload-ai-web` and after `nlw-upload-ia/upload-ai-api` folders<br />
 
 Install node_modules <br />
 <img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> `npm i`
 
 Run application <br />
-<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> `npx expo start`
+<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> `npm run dev`
 
 ## License
 
