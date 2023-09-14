@@ -45,10 +45,19 @@ Upload IA
 
 - [Node](https://nodejs.org/en)
 - [Typescript](https://www.typescriptlang.org/)
+- [Fastify](https://fastify.dev/docs/latest/)
+- [Prisma](https://www.prisma.io/docs/getting-started/quickstart)
 
 ## Important Settings API
 
+- npm init -y
 - npm i typescript @types/node tsx -D
+- npx prisma init --datasource-provider sqlite
+- Add it to your preferred editor, example VSCode
+  - Open User Settings (JSON)
+    `"[prisma]": {
+  "editor.formatOnSave": true,
+},`
 
 ## Demonstration
 
