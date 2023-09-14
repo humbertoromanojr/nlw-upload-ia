@@ -26,13 +26,23 @@ Upload IA
 - [Tailwindcss](https://tailwindcss.com/docs/installation)
 - [Shadcn UI](https://ui.shadcn.com/docs)
 
-## Important Settings
+## Important Settings Web
 
 - npx shadcn-ui@latest add button
 - npx shadcn-ui@latest add separator
 - npx shadcn-ui@latest add textarea
 - npx shadcn-ui@latest add select
 - npx shadcn-ui@latest add slider
+- npx shadcn-ui@latest add label
+
+## Libraries API
+
+- [Node](https://nodejs.org/en)
+- [Typescript](https://www.typescriptlang.org/)
+
+## Important Settings API
+
+- npm i typescript @types/node tsx -D
 
 ## Demonstration
 
