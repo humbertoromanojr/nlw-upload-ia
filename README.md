@@ -61,7 +61,7 @@ Upload IA
 
 ## Demonstration
 
-<img src="" alt="ignite-fleet" width="100%" border="0">
+<img src="https://i.ibb.co/Y8HZcmC/nlw-upload-ia.png" alt="nlw-upload-ia" width="100%" border="0">
 
 ## Install
 
