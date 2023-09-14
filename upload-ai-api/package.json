@@ -8,7 +8,9 @@
     "tsx": "^3.12.10",
     "typescript": "^5.2.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "prisma": "^5.3.0"
+  },
   "scripts": {
     "dev": "tsx watch src/server.ts"
   },
