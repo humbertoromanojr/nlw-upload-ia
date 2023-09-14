@@ -1,0 +1,18 @@
+{
+  "name": "upload-ai-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fastify": "^4.23.2",
+    "tsx": "^3.12.10",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Humberto Jr <astronomi@gmail.com>",
+  "license": "ISC"
+}
