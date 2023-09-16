@@ -47,6 +47,9 @@ Upload IA
 - [Typescript](https://www.typescriptlang.org/)
 - [Fastify](https://fastify.dev/docs/latest/)
 - [Prisma](https://www.prisma.io/docs/getting-started/quickstart)
+- [Zod](https://zod.dev/)
+- [Open AI](https://openai.com/)
+- [Dotenv](https://github.com/motdotla/dotenv)
 
 ## Important Settings API
 
@@ -59,6 +62,9 @@ Upload IA
   "editor.formatOnSave": true,
 },`
 - npx prisma migrate dev
+- npm i @fastify/multipart
+- npm i openai
+- npm i dotenv -D
 
 ## Demonstration
 
