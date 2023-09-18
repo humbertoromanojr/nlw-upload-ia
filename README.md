@@ -29,6 +29,7 @@ Upload IA
 - [Typescript](https://www.typescriptlang.org/)
 - [Tailwindcss](https://tailwindcss.com/docs/installation)
 - [Shadcn UI](https://ui.shadcn.com/docs)
+- [Ffmpegwasm](https://ffmpegwasm.netlify.app/docs/getting-started/installation/)
 
 ## Important Settings Web
 
@@ -38,6 +39,8 @@ Upload IA
 - npx shadcn-ui@latest add select
 - npx shadcn-ui@latest add slider
 - npx shadcn-ui@latest add label
+
+- npm install @ffmpeg/ffmpeg @ffmpeg/util
 
 ## Libraries API
 
@@ -65,6 +68,7 @@ Upload IA
 - npm i @fastify/multipart
 - npm i openai
 - npm i dotenv -D
+- npm i @fastify/cors
 
 ## Demonstration
 
